@@ -1,12 +1,5 @@
 # Training-Scale Sensitivity Analysis: LST Downscaling in Google Earth Engine
 
-**Supplementary code for:**
-> Zaki, A. (2026). Downscaling Landsat LST to 10 m in Google Earth Engine: Assessing SAR Contribution and Reducing Spatial Artifacts Using Sentinel-1 and Sentinel-2 in Warsaw. *Advances in Space Research*. https://doi.org/[......]
-
-**Main downscaling code:** https://github.com/azaki-developer/landsat-lst-downscaling-10m
-**Main code DOI (Zenodo):** https://doi.org/10.5281/zenodo.18526671
-**This code DOI (Zenodo):** https://doi.org/[.....]
-
 ---
 
 ## Purpose
@@ -93,22 +86,6 @@ To adapt for another study area, replace these assets and adjust the `aoi` recta
 | Sentinel-2 Level-2A | `COPERNICUS/S2_SR_HARMONIZED` |
 | Sentinel-1 GRD | `COPERNICUS/S1_GRD` |
 
----
-
-## Citation
-
-If you use this sensitivity analysis script, please cite both the paper and this code:
-
-**Paper:**
-> Zaki, A. (2026). Downscaling Landsat LST to 10 m in Google Earth Engine: Assessing SAR Contribution and Reducing Spatial Artifacts Using Sentinel-1 and Sentinel-2 in Warsaw. *Advances in Space Research*. https://doi.org/[......]
-
-**This code:**
-> Zaki, A. (2026). Training-scale sensitivity analysis script for LST downscaling in Google Earth Engine (Warsaw). Zenodo. https://doi.org/[.......]
-
-**Main downscaling code:**
-> Zaki, A. (2026). Landsat LST downscaling to 10 m in Google Earth Engine (Warsaw). Zenodo. https://doi.org/10.5281/zenodo.18526671
-
----
 
 ## License
 
